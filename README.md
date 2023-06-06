@@ -1,4 +1,4 @@
-# Dominando_PowerBI
+# Dominando Power BI - Formação de Data Science da Alura
 
 Projeto de Estudo: Utilizando Linguagens M e DAX para Consumir APIs, Modelar Dados e Desenvolver Visuais Profissionais
 
