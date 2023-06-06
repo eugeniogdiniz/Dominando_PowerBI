@@ -1,0 +1,1 @@
+(nome as text, idade as number) => nome & Number.ToText(idade)
